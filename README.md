@@ -1,12 +1,12 @@
 # TwinLeaf-OS-Family 
-**一款以用戶主權至於首位，面向未來通用計算的的Arch Linux 衍生發行版**
+**一款開箱即用的桌面環境，探索未來可能的Arch Linux 衍生發行版**
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 ![Arch Linux based](https://img.shields.io/badge/based%20on-Arch%20Linux-1793d1?logo=archlinux)  
 ![Hyprland](https://img.shields.io/badge/desktop-Hyprland-4f46e5)
 
 **TwinLeaf OS 家族** 是一套著重**用戶主權**、**私隱保護**、**面向未來**的 Arch Linux 滾動更新衍生發行版。  
 它最初只是博藝工作室為創辦人自己，以及心目中的偶像 —— 守崎二花（nicamoq/にかもきゅ）而手搓的私人系統。  
-後來意識到，或許能用這微薄的一絲力量，推動計算環保化、ARM 普及、私隱意識提升，以及讓更多人輕鬆接觸 Linux 的小小願景。
+後來意識到，或許能用這微薄的一絲力量，推動**計算環保化**、**ARM 普及**、**私隱意識提升**，以及讓更多人輕鬆接觸 **Linux** 的小小願景。
 
 **TwinLeaf OS**操作系統分為兩個版本，**TwinLeaf OS Next**採用Hyprland （基於Wayland的合成器）深度定制UI的系統，屬TwinLeaf OS家族的旗艦版本（當然是免費的），**TwinLeaf OS**則為KDE Plasma系列的深度定制版。
 
