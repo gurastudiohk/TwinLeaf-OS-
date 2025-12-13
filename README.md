@@ -1,5 +1,6 @@
 # TwinLeaf-OS-Family 
 **一款開箱即用的桌面環境，探索未來可能的Arch Linux 衍生發行版**
+
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 ![Arch Linux based](https://img.shields.io/badge/based%20on-Arch%20Linux-1793d1?logo=archlinux)  
 ![Hyprland](https://img.shields.io/badge/desktop-Hyprland-4f46e5)
