@@ -45,17 +45,15 @@ TwinLeaf OS Next 不再只是私人系統，而是邀請每個人一起探索的
 
 # 核心組件
 
-**TwinLeaf UI**：TwinLeaf OS的靈魂介面，採用Hyprland（Wayland系）深度定制，融合熟悉操作邏輯及Fluent Design 現代化設計語言，同時保留可更改任務欄的位置、格式與設計，以符合您的使用習慣。
+**TwinLeaf UI**：TwinLeaf OS的靈魂介面，採用Hyprland（Wayland系）深度定制，融合熟悉操作邏輯及Fluent Design 現代化設計語言，用戶可根據此設計再改造，甚至完全更改。
 
 # 快速開始
 
-TwinLeaf OS 現在位於最初發展階段，暫無穩定的版本發表並啟用，我們歡迎開發員或愛好者貢獻代碼或提供協助。
-
-**想體驗這個系統怎麼辦？**：TwinLeaf OS Next 是基於Arch Linux最少安裝配置而開發的，當我們完成到一定程度時，將公開代碼供用戶克隆使用。
+TwinLeaf OS-Fedora Remix現在位於最初發展階段，敬請各位朋友期待；博藝工作室現在利用Issue 報告開發情況。
 
 # 社群 
 
-仍在為此系統構建社群，歡迎有心之人聯絡我們。
+仍在為此系統構建社群，即將開通。
 
 # 貢獻
 
