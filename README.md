@@ -1,11 +1,11 @@
 # TwinLeaf-OS-Family 
-**一款開箱即用的桌面環境，探索未來可能的Arch Linux 衍生發行版**
+**一款開箱即用的桌面環境，探索未來可能的Fedora Remix**
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
-![Arch Linux based](https://img.shields.io/badge/based%20on-Arch%20Linux-1793d1?logo=archlinux)  
+
 ![Hyprland](https://img.shields.io/badge/desktop-Hyprland-4f46e5)
 
-**TwinLeaf OS 家族** 是一套著重**用戶主權**、**私隱保護**、**面向未來**的 Arch Linux 滾動更新衍生發行版。  
+**TwinLeaf OS 家族** 是一套著重**用戶主權**、**私隱保護**、**面向未來**的 “Fedora Remix” 衍生發行版。  
 它最初只是博藝工作室為創辦人自己，以及心目中的偶像 —— 守崎二花（nicamoq/にかもきゅ）而手搓的私人系統。  
 後來意識到，或許能用這微薄的一絲力量，推動**計算環保化**、**ARM 普及**、**私隱意識提升**，以及讓更多人輕鬆接觸 **Linux** 的小小願景。
 
@@ -20,15 +20,11 @@
 
 **架構動用，面向未來**：同時為x86_64及ARM（AArch64）架構構建，致力成為今天與未來的橋樑。
 
-**一體化便利**：集成TwinLeaf Store（二葉士多）圖形商店，直觀的系統設置介面，讓強大的**Arch Linux**變得更加容易控制，更易使用。
-
 **靜默私隱防護**：TwinLeaf OS的AI助理沒有喚醒詞，不主動監聽守候，優先在本機（本地）計算，從根源保障私隱。
 
 # 核心組件
 
 **TwinLeaf UI**：TwinLeaf OS的靈魂介面，採用Hyprland（Wayland系）深度定制，融合熟悉操作邏輯及Fluent Design 現代化設計語言，同時保留可更改任務欄的位置、格式與設計，以符合您的使用習慣。
-
-**二葉士多 （TwinLeaf Store 應用商店）**：一站式圖形軟件中心。配合基於Rust語言編寫的Fuchan包管理器，並創新性支援DEB包適配至Arch Linux系統，使使用困難減至最低。
 
 # 快速開始
 
