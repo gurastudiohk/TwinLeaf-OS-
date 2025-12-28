@@ -1,15 +1,26 @@
-# TwinLeaf-OS-Family 
+# TwinLeaf-OS-Fedora Remix 
+
 **一款開箱即用的桌面環境，探索未來可能的Fedora Remix**
 
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 
-![Hyprland](https://img.shields.io/badge/desktop-Hyprland-4f46e5)
+[![Fedora Remix](https://img.shields.io/badge/Remix%20with-Fedora-294172.svg?style=flat-square&logo=fedora)](https://fedoraproject.org/wiki/Remix)
 
-**TwinLeaf OS 家族** 是一套著重**用戶主權**、**私隱保護**、**面向未來**的 “Fedora Remix” 衍生發行版。  
-它最初只是博藝工作室為創辦人自己，以及心目中的偶像 —— 守崎二花（nicamoq/にかもきゅ）而手搓的私人系統。  
-後來意識到，或許能用這微薄的一絲力量，推動**計算環保化**、**ARM 普及**、**私隱意識提升**，以及讓更多人輕鬆接觸 **Linux** 的小小願景。
+[![Hyprland](https://img.shields.io/badge/Powered%20by-Hyprland-78a3d4.svg?style=flat-square&logo=hyprland)](https://hypr.land)
 
-**TwinLeaf OS**操作系統分為兩個版本，**TwinLeaf OS Next**採用Hyprland （基於Wayland的合成器）深度定制UI的系統，屬TwinLeaf OS家族的旗艦版本（當然是免費的），**TwinLeaf OS**則為KDE Plasma系列的深度定制版。
+**TwinLeaf OS Next- Fedora Remix** 是一套著重**用戶主權**、**私隱保護**、**面向未來**的 “Fedora Remix” 衍生發行版。  
+
+它最初只是博藝工作室為創辦人自己，以及心目中的偶像——守崎二花（nicamoq / にかもきゅ）而手搓的私人系統，靈感源於她從偶像時期到成熟表演者的轉變，象徵「勇於嘗試」與「溫柔平衡」的韌性精神。項目最早以 **Arch Linux** 作為技術探索的起點，追求極致的自訂與最新體驗。
+
+然而，經過 2025 年 12 月的實際開發檢討，我們冷靜地選擇轉向 Fedora Linux 作為基底。
+
+這並非放棄，而是對穩定、健康發展與用戶體驗的負責決定——Fedora 帶來更可靠的更新、更成熟的 ARM 生態，以及更適合家用與遊戲娛樂的平衡，讓有限的時間用在真正有意義的地方。
+
+在這過程中，我們逐漸意識到，或許能以這微薄的一絲力量，推動**計算環保化**、**ARM 普及**、**私隱意識提升**，以及讓更多人（尤其是香港用戶）輕鬆接觸 **Linux** 的小小願景。
+
+TwinLeaf OS Next 不再只是私人系統，而是邀請每個人一起探索的平和家園。
+
+**TwinLeaf OS Next – Fedora Remix** 採用 Hyprland（基於 Wayland 的合成器）深度定制的 TwinLeaf UI，同時完整支援 GNOME 生態應用程式，是 TwinLeaf OS 家族的旗艦版本。它在輕盈與穩定之間尋求平衡，提供熟悉的 Windows 操作邏輯、Kawaii 的溫柔陪伴，以及對未來的開放想像。
 
 # 特色
 博藝工作室**TwinLeaf OS**特色是：
