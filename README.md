@@ -53,7 +53,10 @@ TwinLeaf OS-Fedora Remix現在位於最初發展階段，敬請各位朋友期�
 
 # 社群 
 
-仍在為此系統構建社群，即將開通。
+-[百科與詞條-Wiki](https://github.com/gurastudiohk/TwinLeaf-OS-/wiki) – 我們的獨有知識和詞語 Our unique knowledge and vocabulary
+- [問題解決-Issues](https://github.com/gurastudiohk/TwinLeaf-OS-/issues) – 在此報告任何漏洞或問題 Report the bug Or Any Issues 
+- [討論區-Discussions](https://github.com/gurastudiohk/TwinLeaf-OS-/discussions) – 提出問題並分享想法 Ask questions and share ideas
+- [行為準則-Code of Conduct](https://github.com/gurastudiohk/TwinLeaf-OS-/blob/main/CODE_OF_CONDUCT.md) – 與我們一起創建和諧家園的藍圖 A blueprint for building a harmonious home together.
 
 # 貢獻
 
