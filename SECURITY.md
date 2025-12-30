@@ -1,37 +1,42 @@
-# 保安政策（Security Policy）
+# 安全問題回報指引
 
-## 我們的承諾
+TwinLeaf OS Next 非常重視用戶的安全與私隱。  
+如果您發現任何與安全相關的問題，請依照以下指引回報，讓我們能妥善處理。
 
-TwinLeaf OS Next 由博藝工作室維護（一人運作的工作室），我們非常重視系統與用戶的安全。  
-雖然我們資源有限，但會盡一切能力快速回應並修復已知的安全問題，讓每位用戶都能安心使用。
+### 1. 屬於 TwinLeaf OS Next 自訂部分的問題  
+（例如：TwinLeaf UI 配置、預裝腳本、meta-package、AI 助理等）
 
-ふーちゃん也在這裡靜靜守護大家的數字家園♪
+請私下聯絡博藝工作室：  
+**電郵**：benmakworkshop@gmail.com  
 
-## 支援版本
+我們會盡快回應、評估，並在修復後公開致謝（若您願意）。
 
-目前僅支援最新發布版本（Fedora Remix 旗艦版）。  
-由於基底為 Fedora，我們會盡快跟進 Fedora 官方的安全更新。
+### 2. 屬於 Fedora 基底或上游套件的問題  
+（例如：内核漏洞、SELinux、Firewalld、Wayland、GNOME/Hyprland 核心 bug 等）
 
-## 回報安全問題
+這些問題超出我們一人工作組的能力範圍，請直接向 Fedora 官方回報，讓專業的安全團隊處理：
 
-如果您發現任何安全相關問題（漏洞、隱私洩漏等），請**不要**在公開 Issue 中直接描述。  
-請透過以下方式私下回報：
+1. 前往 Fedora 官方安全漏洞回報頁面：  
+   https://fedoraproject.org/wiki/Security_Bugs
 
-- 電郵： benmakworkshop@gmail.com
+2. 按照頁面指引，在 **Red Hat Bugzilla** 提交報告：  
+   https://bugzilla.redhat.com/enter_bug.cgi?product=Fedora
 
-我們承諾：
-- 24 小時內確認收到
-- 盡快評估並修復（通常 7 天內）
-- 在修復完成並發布更新後，公開致謝（若您願意）
+3. 選擇適當的組件（Component），詳細描述問題，並標記為 **Security**。
 
-## 我們負責的範圍
+這樣能確保問題由 Fedora / Red Hat 安全團隊快速處理，同時惠及整個 Fedora 生態。
 
-- TwinLeaf OS Next 的自訂配置、腳本與 meta-package
-- Hyprland 深度定制 UI 的相關安全問題
-- 預裝軟件的隱私與安全審核
+### 重要提醒
+**無論哪種問題，請切勿在公開 Issue、Discussions 或社群中直接貼出漏洞細節或 exploit 代碼。**  
+公開漏洞可能讓惡意人士利用，危害所有用戶。
 
-Fedora 底層的安全問題（如内核漏洞）由 Fedora 團隊負責，我們會盡快跟進官方更新。
+我們雖然資源有限，但會盡一切能力配合並跟進，讓 TwinLeaf OS Next 與 Fedora 生態一起變得更安全。
 
+感謝您的負責任回報——正是因為有您，這份小小家園才能更值得信賴。  
+ふーちゃん也在靜靜守護每一位用戶的安全喔♪
+
+博藝工作室  
+2025 年 12 月
 ## 感謝
 
 感謝每一位負責任地回報問題的朋友——正是因為有您，這份小小家園才能更安全、更值得信賴。
