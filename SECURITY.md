@@ -19,8 +19,8 @@ TwinLeaf OS Next 非常重視用戶的安全與私隱。
 1. 前往 Fedora 官方安全漏洞回報頁面：  
    https://fedoraproject.org/wiki/Security_Bugs
 
-2. 按照頁面指引，在 **Red Hat Bugzilla** 提交報告：  
-   https://bugzilla.redhat.com/enter_bug.cgi?product=Fedora
+2. 按照頁面指引，在 **Red Hat Bugzilla** 提交報告（報告時需要註冊相關帳戶）：  
+   https://bugzilla.redhat.com
 
 3. 選擇適當的組件（Component），詳細描述問題，並標記為 **Security**。
 
@@ -34,12 +34,6 @@ TwinLeaf OS Next 非常重視用戶的安全與私隱。
 
 感謝您的負責任回報——正是因為有您，這份小小家園才能更值得信賴。  
 ふーちゃん也在靜靜守護每一位用戶的安全喔♪
-
-博藝工作室  
-2025 年 12 月
-## 感謝
-
-感謝每一位負責任地回報問題的朋友——正是因為有您，這份小小家園才能更安全、更值得信賴。
 
 博藝工作室  
 2025 年 12 月
