@@ -49,7 +49,7 @@ TwinLeaf OS Next 不再只是私人系統，而是邀請每個人一起探索的
 
 # 快速開始
 
-TwinLeaf OS-Fedora Remix現在位於最初發展階段，敬請各位朋友期待；博藝工作室現在利用Issue 報告開發情況。
+TwinLeaf OS-Fedora Remix現在位於最初發展階段，敬請各位朋友期待；討論區將發表開發狀況供參考之用。
 
 # 社群 
 
