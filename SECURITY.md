@@ -12,7 +12,7 @@ TwinLeaf OS Next 非常重視用戶的安全與私隱。
 我們會盡快回應、評估，並在修復後公開致謝（若您願意）。
 
 ### 2. 屬於 Fedora 基底或上游套件的問題  
-（例如：内核漏洞、SELinux、Firewalld、Wayland、GNOME/Hyprland 核心 bug 等）
+（例如：内核漏洞、SELinux、Firewalld、Wayland、COSMIC 核心 bug 等）
 
 這些問題超出我們一人工作組的能力範圍，請直接向 Fedora 官方回報，讓專業的安全團隊處理：
 
@@ -36,4 +36,4 @@ TwinLeaf OS Next 非常重視用戶的安全與私隱。
 ふーちゃん也在靜靜守護每一位用戶的安全喔♪
 
 博藝工作室  
-2025 年 12 月
+2026 年 1 月
