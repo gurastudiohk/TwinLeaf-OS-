@@ -29,7 +29,8 @@
 
 - **開箱即用與面向未來**  
   桌面環境基於 COSMIC（Rust 語言、Wayland 原生）/KDE Plasma（穩定性最佳）深度改造，提供流暢、現代化的體驗。同時支援 x86_64 與 ARM（AArch64），成為今天與未來的橋樑。
-  （暫不包括TwinLeaf OS Next 2026 Sailor，採用KDE Plasma 6）
+
+ （不包括TwinLeaf OS Next 2026 Sailor，採用KDE Plasma 6）
 
 ## 核心組件
 
