@@ -26,7 +26,7 @@ TwinLeaf OS Next 是一套**香港本土開發的 Fedora Remix**，專注於用�
 
 ## 文檔
 
-- **Wiki**： [TwinLeaf OS 手冊主頁]()
+- **Wiki**： [TwinLeaf OS 手冊主頁](https://github.com/gurastudiohk/TwinLeaf-OS-/wiki)
 
 ## 社群與討論
 
@@ -52,7 +52,4 @@ TwinLeaf OS 採用 GNU GPL-3.0（GNU通用公眾特許條款）
 
 最初只是為自己與偶像守崎風花（nicamoq）打造的私人系統，靈感來自她從可愛偶像到成熟表演者的轉變，象徵「勇於嘗試」與「溫柔平衡」。
 
-我們希望 TwinLeaf OS Next 成為中文用戶的多一種選擇，讓開源世界更溫柔、更包容。
-
-ふーちゃん說：  
-「這裡是你的家，沒有人會偷看，也沒有人會干涉～我們一起慢慢長大吧♪」
+我們希望 TwinLeaf OS 成為中文用戶的多一種選擇，讓開源世界更溫柔、更包容。
