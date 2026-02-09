@@ -32,15 +32,16 @@ TwinLeaf OS Next 是一套**香港本土開發的 Fedora Remix**，專注於用�
 
 - **Discord**：（部份服務器未完工，敬請期待）
 - **Stoat 官方服**：（服務器未完工，敬請期待）
-- **Bilibili**：BenmakWorkshop
+- **Bilibili（嗶哩嗶哩）**：BenmakWorkshop
 - **X (Twitter)**：@benmakkizuna
+- **BlueSky**：benmak-workshop.bsky.social
 
 ## 貢獻
 
 歡迎任何形式的參與：
 - Pull Request：代碼、主題、美化、文檔
 - Issues：回報 bug、提建議
-- 測試：不同硬體安裝並分享體驗（例如：Intel+Nvdia/SteamDeck系/單版電腦等）
+- 測試：不同硬體安裝並分享體驗（例如：Intel+Nvdia/SteamDeck系（或掌機電腦）/單版電腦（如樹莓派、香橙派、nvidia jetson）等）
 
 ## 許可
 
