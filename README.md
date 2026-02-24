@@ -1,4 +1,4 @@
-# TwinLeaf OS Next
+# TwinLeaf OS 
 
 **香港本土的 Fedora Remix**  
 為中文用戶（特別是粵語系）打造的Fedora Remix系統
@@ -11,7 +11,7 @@
 [![GNOME Workstation (Upcoming)](https://img.shields.io/badge/GNOME%20Workstation%20(2027%2B)-blueviolet?style=flat-square&logo=gnome&logoColor=white)](https://gnome.org)
 
 
-TwinLeaf OS Next 是一套**香港本土開發的 Fedora Remix**，專注於用戶主權、靜默私隱保護與溫柔的使用體驗。
+TwinLeaf OS 是一套**香港本土開發的 Fedora Remix**，專注於用戶主權、靜默私隱保護與溫柔的使用體驗。
 
 我們不追求「香港製造」的標籤，只求做出真正好用、可靠、尊重每位使用者的系統。
 
