@@ -1,17 +1,20 @@
 # TwinLeaf OS 
 
-**香港本土的 Fedora Remix**  
+**一位港人發起Linux桌面計劃**  
 為中文用戶（特別是粵語系）打造的Fedora Remix系統
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
-[![Remix with Fedora](https://img.shields.io/badge/Remix%20with-Fedora-294172.svg?style=flat-square&logo=fedora)](https://fedoraproject.org/wiki/Remix)
+[![Debian 13 KDE (Current)](https://img.shields.io/badge/Debian%2013%20KDE-Current-blue?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)  
+[![openSUSE Tumbleweed (Upcoming)](https://img.shields.io/badge/openSUSE%20Tumbleweed-Upcoming-green?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org/)  
 
-[![KDE Plasma](https://img.shields.io/badge/Desktop-KDE%20Plasma%206-0078d7?style=flat-square&logo=kde&logoColor=white)](https://kde.org/plasma-desktop/)
-[![COSMIC (Upcoming)](https://img.shields.io/badge/COSMIC%20(2027%2B)-orange?style=flat-square&logo=rust&logoColor=white)](https://system76.com/cosmic)
+[![KDE Plasma](https://img.shields.io/badge/Desktop-KDE%20Plasma%206-0078d7?style=flat-square&logo=kde&logoColor=white)](https://kde.org/plasma-desktop/)  
+[![COSMIC (Upcoming)](https://img.shields.io/badge/COSMIC%20(2027%2B)-orange?style=flat-square&logo=rust&logoColor=white)](https://system76.com/cosmic)  
 [![GNOME Workstation (Upcoming)](https://img.shields.io/badge/GNOME%20Workstation%20(2027%2B)-blueviolet?style=flat-square&logo=gnome&logoColor=white)](https://gnome.org)
 
+[![Wayland](https://img.shields.io/badge/Session-Wayland-89b4fa?style=flat-square&logo=wayland&logoColor=white)](https://wayland.freedesktop.org/)
 
-TwinLeaf OS 是一套**香港本土開發的 Fedora Remix**，專注於用戶主權、靜默私隱保護與溫柔的使用體驗。
+
+TwinLeaf OS 是一套**香港本土開發的Linux桌面系統**，專注於用戶主權、靜默私隱保護與溫柔的使用體驗。
 
 我們不追求「香港製造」的標籤，只求做出真正好用、可靠、尊重每位使用者的系統。
 
@@ -21,7 +24,7 @@ TwinLeaf OS 是一套**香港本土開發的 Fedora Remix**，專注於用戶主
 - **靜默私隱保護**：預設關閉所有 telemetry、無喚醒詞、優先本地運算。
 - **類原子化回滾**：可修改內核與驅動，同時透過 btrfs snapshots + Timeshift 一鍵回滾。
 - **中文體驗**：預設 fcitx5 輸入法，內建速成與漢語拼音方案。
-- **桌面環境**：第一版採用 KDE Plasma 6（穩定、Wayland 原生），未來（2027之後）支援GNOME及COSMIC（Rust 桌面）
+- **桌面環境**：採用 KDE Plasma 6（穩定、Wayland 原生）
 - **開盒即用**：配備主流驅動、影片解碼、驅動的「生活包」，系統安裝方法簡單，讓您可盡快上手。
 
 ## 下載與安裝
