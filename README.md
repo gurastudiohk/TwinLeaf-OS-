@@ -1,16 +1,13 @@
 # TwinLeaf OS 
 
-**一位港人發起Linux桌面計劃**  
-為中文用戶（特別是粵語系）打造的Fedora Remix系統
+**一位港人為你打造的Linux桌面**  
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Debian 13 KDE (Current)](https://img.shields.io/badge/Debian%2013%20KDE-Current-blue?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)  
-[![openSUSE Tumbleweed (Upcoming)](https://img.shields.io/badge/openSUSE%20Tumbleweed-Upcoming-green?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org/)  
-
+[![openSUSE Tumbleweed (Upcoming)](https://img.shields.io/badge/openSUSE%20Tumbleweed-Upcoming-brown?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org/)  
 [![KDE Plasma](https://img.shields.io/badge/Desktop-KDE%20Plasma%206-0078d7?style=flat-square&logo=kde&logoColor=white)](https://kde.org/plasma-desktop/)  
 [![COSMIC (Upcoming)](https://img.shields.io/badge/COSMIC%20(2027%2B)-orange?style=flat-square&logo=rust&logoColor=white)](https://system76.com/cosmic)  
 [![GNOME Workstation (Upcoming)](https://img.shields.io/badge/GNOME%20Workstation%20(2027%2B)-blueviolet?style=flat-square&logo=gnome&logoColor=white)](https://gnome.org)
-
 [![Wayland](https://img.shields.io/badge/Session-Wayland-89b4fa?style=flat-square&logo=wayland&logoColor=white)](https://wayland.freedesktop.org/)
 
 
