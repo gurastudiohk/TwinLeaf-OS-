@@ -142,7 +142,7 @@ Future 版是 TwinLeaf OS 的技術試驗場，永遠走在前面，但不保證
 Future 版的經驗，將反哺到 Workstation 版，讓穩定與創新並行。
 
 ---
-貢獻方法
+## 貢獻方法
 
 歡迎任何形式的參與：
 - Pull Request：代碼、主題、美化、文檔
@@ -151,7 +151,7 @@ Future 版的經驗，將反哺到 Workstation 版，讓穩定與創新並行。
 
 ---
 
-🌱 關於我們
+## 🌱 關於我們
 
 TwinLeaf OS 由香港 博藝工作室（Benmak Workshop） 一人獨立開發。靈感來自日本藝人 守崎風花（nicamoq）——她的真實軌跡告訴我們：
 
