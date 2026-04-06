@@ -11,7 +11,7 @@
 [![許可證](https://img.shields.io/badge/許可證-GPLv3%20|%20MIT%20|%20CC--BY--SA%204.0-blue?style=flat-square)](LICENSE)
 [![私隱保護](https://img.shields.io/badge/私隱-根源切除%20|%20默認安全-success?style=flat-square)](PRIVACY.md)
 [![硬體支援](https://img.shields.io/badge/硬體-AMD%20|%20Intel%20全系列-orange?style=flat-square)](#-硬體支援)
-[![社群](https://img.shields.io/badge/社群-Stoat.chat-8A2BE2?style=flat-square)](https://stoat.chat/twinleaf)
+[![社群](https://img.shields.io/badge/社群-Stoat.chat-8A2BE2?style=flat-square)](https://stt.gg/G1BdwyVv)
 
 </div>
 
