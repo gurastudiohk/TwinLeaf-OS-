@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash、
 # TwinLeaf OS 一鍵安裝腳本
 # 版本: 1.0 (Sailor Beta)
 # 用途: 安裝後自動配置系統、輸入法、藍牙、常用軟體
