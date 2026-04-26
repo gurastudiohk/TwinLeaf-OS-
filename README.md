@@ -9,6 +9,7 @@
 [![基底](https://img.shields.io/badge/基底-Debian%20Testing-CC0033?style=flat-square&logo=debian)](https://www.debian.org)
 [![桌面環境](https://img.shields.io/badge/桌面-KDE%20Plasma%206-1ABC9C?style=flat-square&logo=kde)](https://kde.org)
 [![許可證](https://img.shields.io/badge/許可證-GPLv3%20|%20MIT%20|%20CC--BY--SA%204.0-blue?style=flat-square)](LICENSE)
+[![港行 AI PC Ready](https://img.shields.io/badge/港行（香港行貨）-AI_PC_Ready-00bfff?style=flat-square)](https://github.com/gurastudiohk/TwinLeaf-OS-)
 [![私隱保護](https://img.shields.io/badge/私隱-根源切除%20|%20默認安全-success?style=flat-square)](https://github.com/gurastudiohk/TwinLeaf-OS-/wiki/TwinLeaf-OS-%E7%A7%81%E9%9A%B1%E6%94%BF%E7%AD%96%E5%8F%8A%E9%99%84%E5%8A%A0%E6%A2%9D%E6%AC%BE)
 [![硬體支援](https://img.shields.io/badge/硬體-AMD%20|%20Intel%20全系列-orange?style=flat-square)](#-硬體支援)
 [![社群](https://img.shields.io/badge/社群-Stoat.chat-8A2BE2?style=flat-square)](https://stt.gg/G1BdwyVv)
@@ -41,7 +42,7 @@ TwinLeaf OS 是一個正在發展中的 Linux 發行版項目，由香港 **博�
 |------|------|
 | **尊重** | 尊重你的私隱、你的選擇、你的電腦——不收集任何個人資料，不強制年齡認證，不干涉你的使用方式。你的身份證，只屬於你自己。 |
 | **美感** | 從 nicamoq 的「自拍美少女時期」汲取靈感，系統介面追求簡約、清爽、溫柔的視覺體驗。KDE Plasma 6 的優雅，搭配精心挑選的主題，讓每一次使用都是愉悅。 |
-| **易用** | Linux 不應是少數人的玩具。繁體中文開箱即用，藍牙檔案傳輸不再「只會當音響」，一鍵安裝腳本讓軟體設定不再是障礙。 |
+| **易用** | Linux 不應是少數人的玩具。繁體中文開箱即用，原生手機互聯，一鍵安裝腳本讓軟體設定不再是障礙。 |
 | **自由** | 真正的自由，是選擇的自由——選擇何時更新、選擇用什麼軟體、選擇是否參與社群。我們不綁架你的系統，也不綁架你的時間。 |
 
 ---
