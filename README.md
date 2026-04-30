@@ -9,7 +9,7 @@
 [![基底](https://img.shields.io/badge/基底-Debian%20Testing-CC0033?style=flat-square&logo=debian)](https://www.debian.org)
 [![桌面環境](https://img.shields.io/badge/桌面-KDE%20Plasma%206-1ABC9C?style=flat-square&logo=kde)](https://kde.org)
 [![許可證](https://img.shields.io/badge/許可證-GPLv3%20|%20MIT%20|%20CC--BY--SA%204.0-blue?style=flat-square)](LICENSE)
-[![港行 AI PC Ready](https://img.shields.io/badge/港行（香港行貨）-AI_PC_Ready-00bfff?style=flat-square)](https://github.com/gurastudiohk/TwinLeaf-OS-)
+[![港行 AI PC Ready](https://img.shields.io/badge/港行（香港行貨）-AI_PC_Ready-00bfff?style=flat-square)](https://github.com/gurastudiohk/TwinLeaf-OS-/wiki/TwinLeaf-OS-%E7%8D%A8%E6%9C%89%E8%A1%93%E8%AA%9E%E5%8F%8A%E7%9F%A5%E8%AD%98#ai-pc-ready)
 [![私隱保護](https://img.shields.io/badge/私隱-根源切除%20|%20默認安全-success?style=flat-square)](https://github.com/gurastudiohk/TwinLeaf-OS-/wiki/TwinLeaf-OS-%E7%A7%81%E9%9A%B1%E6%94%BF%E7%AD%96%E5%8F%8A%E9%99%84%E5%8A%A0%E6%A2%9D%E6%AC%BE)
 [![硬體支援](https://img.shields.io/badge/硬體-AMD%20|%20Intel%20全系列-orange?style=flat-square)](#-硬體支援)
 [![社群](https://img.shields.io/badge/社群-Stoat.chat-8A2BE2?style=flat-square)](https://stt.gg/G1BdwyVv)
